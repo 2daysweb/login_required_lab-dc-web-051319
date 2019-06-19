@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe SecretsController, type: :controller do
+RSpec.describe SecretsControllerController, type: :controller do
 
   describe "GET #index" do
     it "returns http success" do
